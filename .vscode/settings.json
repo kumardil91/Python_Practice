@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "Basic_Python_Practice"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
